@@ -1,4 +1,4 @@
-# Nonlinear Controller for Trajectory Tracking of a Haptic Robot
+# Design of Nonlinear Controllers for Trajectory Tracking of a Haptic Robot
  This is the repository of the project "Nonlinear Controller for Trajectory Tracking of a Haptic Robot." The content of each section is as follows:  
  ## Section #3:
  In this section, the eigen values of the nonlinear system is obtained.
